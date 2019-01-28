@@ -3,10 +3,13 @@
   <entry>
     <title><![CDATA[最全Hexo博客搭建]]></title>
     <url>%2F2019%2F01%2F28%2Ftitle%2F</url>
-    <content type="text"><![CDATA[前言 1.资源纯属搬运。 2.留存收藏备用 博客搭建准备环境Node.js 下载，并安装。详细步骤：https://www.simon96.online/2018/11/10/hexo-env/ Git 下载，并安装。详细步骤：https://www.simon96.online/2018/11/10/hexo-env/ 安装Hexo，在命令行（即Git Bash）运行以下命令： npm install -g hexo-cli 初始化Hexo，在命令行（即Git Bash）依次运行以下命令即可： 以下，即存放Hexo初始化文件的路径， 即站点目录。 $ hexo init $ cd $ npm install新建完成后，在路径下，会产生这些文件和文件夹： .├── _config.yml├── package.json├── scaffolds├── source| ├── _drafts| └── _posts└── themes注： hexo相关命令均在站点目录下，用Git Bash运行。 站点配置文件：站点目录下的_config.yml。 ​ 路径为_config.yml 主题配置文件：站点目录下的themes文件夹下的，主题文件夹下的_config.yml。 ​ 路径为\themes\&lt;主题文件夹&gt;_config.yml 启动服务器。在路径下，命令行（即Git Bash）输入以下命令，运行即可： hexo server 浏览器访问网址： http://localhost:4000/ 至此，您的Hexo博客已经搭建在本地。]]></content>
+    <content type="text"><![CDATA[前言 1.资源纯属搬运。 2.留存收藏备用 博客搭建准备环境 1 . Node.js 下载，并安装。详细步骤：https://www.simon96.online/2018/11/10/hexo-env/ 2 . Git 下载，并安装。详细步骤：https://www.simon96.online/2018/11/10/hexo-env/ 3 . 安装Hexo，在命令行（即Git Bash）运行以下命令： npm install -g hexo-cli 4 . 初始化Hexo，在命令行（即Git Bash）依次运行以下命令即可： 以下，即存放Hexo初始化文件的路径， 即站点目录。 $ hexo init $ cd $ npm install 新建完成后，在路径下，会产生这些文件和文件夹： .├── _config.yml├── package.json├── scaffolds├── source| ├── _drafts| └── _posts└── themes注： hexo相关命令均在站点目录下，用Git Bash运行。 站点配置文件：站点目录下的_config.yml。 ​ 路径为_config.yml 主题配置文件：站点目录下的themes文件夹下的，主题文件夹下的_config.yml。 ​ 路径为\themes\&lt;主题文件夹&gt;_config.yml 启动服务器。在路径下，命令行（即Git Bash）输入以下命令，运行即可： hexo server 浏览器访问网址： http://localhost:4000/ 至此，您的Hexo博客已经搭建在本地。#]]></content>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
   </entry>
   <entry>
-    <title><![CDATA[个人网站略略略]]></title>
+    <title><![CDATA[个人网站]]></title>
     <url>%2F2019%2F01%2F28%2Fhello-world%2F</url>
     <content type="text"><![CDATA[不容易啊，接下来的还要更难，得慢慢琢磨了。QAQ 这里是一个小公告加油！]]></content>
       <categories>
